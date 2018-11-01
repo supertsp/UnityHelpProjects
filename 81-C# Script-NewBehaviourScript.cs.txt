@@ -1,0 +1,47 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+using System.Collections.Generic;
+
+public class #SCRIPTNAME# : MonoBehaviour 
+{
+	
+	#region Attributes Visible on UnityEditor
+	//public 
+	#endregion
+	
+	#region Auxiliary Attributes of this Component
+	//private 
+	#endregion
+	
+	#region Messages Methods from MonoBehaviour: Start(), Update(), ...
+	void Start () //to initialize this component
+	{
+		#NOTRIM#
+	}
+	
+	void Update ()  //to repeat in each frame
+	{
+		#NOTRIM#
+	}
+	
+	void FixedUpdate () //to repeat precisely in each frame
+	{
+		#NOTRIM#
+	}
+	#endregion
+	
+	#region Auxiliary Methods
+    
+	//private
+	
+    #endregion
+	
+	#region Public Methods
+    
+	//public
+	
+    #endregion
+		
+	
+}//class

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/SampleSceneTimerEvent_TextMeshPro.unity
+  isLoaded: 1
+  isActive: 1
